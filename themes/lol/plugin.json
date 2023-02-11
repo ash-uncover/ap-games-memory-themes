@@ -1,0 +1,61 @@
+{
+  "name": "memory-themes-lol",
+  "url": "https://ash-uncover.github.io/ap-games-memory-themes/themes/lol",
+  "provides": {
+    "memory/theme": {
+      "lol": {
+        "attributes": {
+          "name": "League of Legends",
+          "description": "A League of Legends inspired theme",
+          "thumbnail": "/thumbnail.jpg",
+          "card0": "/card_ahri.png",
+          "card1": "/card_akali.png",
+          "card2": "/card_annie.png",
+          "card3": "/card_ashe.png",
+          "card4": "/card_caitlyn.png",
+          "card5": "/card_casiopea.png",
+          "card6": "/card_diana.png",
+          "card7": "/card_elise.png",
+          "card8": "/card_evelyn.png",
+          "card9": "/card_ezreal.png",
+          "card10": "/card_irelia.png",
+          "card11": "/card_janna.png",
+          "card12": "/card_jinx.png",
+          "card13": "/card_kalista.png",
+          "card14": "/card_karma.png",
+          "card15": "/card_katarina.png",
+          "card16": "/card_leblanc.png",
+          "card17": "/card_leona.png",
+          "card18": "/card_lissandra.png",
+          "card19": "/card_lulu.png",
+          "card20": "/card_lux.png",
+          "card21": "/card_missfortune.png",
+          "card22": "/card_morgana.png",
+          "card23": "/card_nami.png",
+          "card24": "/card_nidalee.png",
+          "card25": "/card_oriana.png",
+          "card26": "/card_poppy.png",
+          "card27": "/card_reksai.png",
+          "card28": "/card_riven.png",
+          "card29": "/card_sejuani.png",
+          "card30": "/card_senna.png",
+          "card31": "/card_shyvana.png",
+          "card32": "/card_sivir.png",
+          "card33": "/card_sona.png",
+          "card34": "/card_soraka.png",
+          "card35": "/card_syndra.png",
+          "card36": "/card_tristana.png",
+          "card37": "/card_vayne.png",
+          "card38": "/card_vi.png",
+          "card39": "/card_xayah.png",
+          "music": [
+            "/music_0.mp3",
+            "/music_1.mp3",
+            "/music_2.mp3",
+            "/music_3.mp3"
+          ]
+        }
+      }
+    }
+  }
+}

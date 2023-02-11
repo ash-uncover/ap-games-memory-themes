@@ -1,0 +1,7 @@
+{
+  "name": "memory-themes",
+  "url": "https://ash-uncover.github.io/ap-games-memory-themes/",
+  "dependencies": [
+    "https://ash-uncover.github.io/ap-games-memory-themes/themes/lol/plugin.json"
+  ]
+}
