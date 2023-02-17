@@ -8,6 +8,7 @@
           "name": "League of Legends",
           "description": "A League of Legends inspired theme",
           "thumbnail": "/thumbnail.jpg",
+          "cardBack": "/card_back.png",
           "card0": "/card_ahri.png",
           "card1": "/card_akali.png",
           "card2": "/card_annie.png",
